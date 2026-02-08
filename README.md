@@ -9,4 +9,4 @@ pandoc writeup.md -o writeup.pdf \
   -V mainfont="DejaVu Sans" \
   -V monofont="DejaVu Sans Mono"
 ```
-format: ![PHOTO](img/.png)
+format: `![PHOTO](img/.png)`
